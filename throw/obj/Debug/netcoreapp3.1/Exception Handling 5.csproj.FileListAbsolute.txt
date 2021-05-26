@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\bin\Debug\netcoreapp3.1\Exception Handling 5.exe
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\bin\Debug\netcoreapp3.1\Exception Handling 5.deps.json
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\bin\Debug\netcoreapp3.1\Exception Handling 5.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\bin\Debug\netcoreapp3.1\Exception Handling 5.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\bin\Debug\netcoreapp3.1\Exception Handling 5.dll
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\bin\Debug\netcoreapp3.1\Exception Handling 5.pdb
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\obj\Debug\netcoreapp3.1\Exception Handling 5.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\obj\Debug\netcoreapp3.1\Exception Handling 5.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\obj\Debug\netcoreapp3.1\Exception Handling 5.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\obj\Debug\netcoreapp3.1\Exception Handling 5.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\obj\Debug\netcoreapp3.1\Exception Handling 5.dll
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\obj\Debug\netcoreapp3.1\Exception Handling 5.pdb
+C:\Users\Rohit Dasari\source\repos\Exception Handling 5\obj\Debug\netcoreapp3.1\Exception Handling 5.genruntimeconfig.cache
